@@ -2,6 +2,8 @@
 My submissions for the JavaScript track on the Exercism learning platform.
 
 **Learning Path:**
+- [x] Hello World
+- [x] Lucian's Luscious
 - [ ] Freelancer Rates
 - [ ] Poetry Club Door Policy
 - [ ] Elyses Enchantments
