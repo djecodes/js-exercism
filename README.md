@@ -1,6 +1,30 @@
 # js-exercism
 My submissions for the JavaScript track on the Exercism learning platform.
 
+**Learning Path:**
+- [ ] Freelancer Rates
+- [ ] Poetry Club Door Policy
+- [ ] Elyses Enchantments
+- [ ] Vehicle Purchase
+- [ ] Bird Watcher
+- [ ] Mixed Juices
+- [ ] Lucky Numbers
+- [ ] Elyses Analytic Enchantments
+- [ ] Elyses Destructed Enchantments
+- [ ] Elyses Looping Enchantments
+- [ ] Amusement Park
+- [ ] Coordinate Transformation
+- [ ] Fruit Picker
+- [ ] Translation Service
+- [ ] High Score Board
+- [ ] Ozan's Playlist
+- [ ] Lasagna Master
+- [ ] Factory Sensors
+- [ ] Elyses Transformative Enchantments
+- [ ] Custom Signs
+- [ ] Windowing System
+
+
 **Easy:**
 - [ ] Scale Generator
 - [ ] Transpose
