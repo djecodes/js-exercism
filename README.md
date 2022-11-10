@@ -25,7 +25,7 @@ My submissions for the JavaScript track on the Exercism learning platform.
 - [ ] Elyses Transformative Enchantments
 - [ ] Custom Signs
 - [ ] Windowing System
-- [ ] Annalyn's Infiltration
+- [x] Annalyn's Infiltration
 
 
 **Easy:**
