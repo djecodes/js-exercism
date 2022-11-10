@@ -1,7 +1,7 @@
 # js-exercism
 My submissions for the JavaScript track on the Exercism learning platform.
 
-**Learning Path:**
+**Learning Exercise:**
 - [x] Hello World
 - [x] Lucian's Luscious
 - [ ] Freelancer Rates
@@ -25,6 +25,7 @@ My submissions for the JavaScript track on the Exercism learning platform.
 - [ ] Elyses Transformative Enchantments
 - [ ] Custom Signs
 - [ ] Windowing System
+- [ ] Annalyn's Infiltration
 
 
 **Easy:**
