@@ -4,7 +4,7 @@ My submissions for the JavaScript track on the Exercism learning platform.
 **Learning Exercise:**
 - [x] Hello World
 - [x] Lucian's Luscious
-- [ ] Freelancer Rates
+- [x] Freelancer Rates
 - [ ] Poetry Club Door Policy
 - [ ] Elyses Enchantments
 - [ ] Vehicle Purchase
